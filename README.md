@@ -13,12 +13,12 @@ My changes:
   <ol>
     reason: installing aubio as dependency fails with error in pip "Failed building wheel for aubio" or error in gcc "'avFormatCtx' will never be NULL"
   </ol>
-  
+  <br>
   installing pkgconfig package
   <ol>
     reason: missing pkg-config when trying to execute pip install ledfx
   </ol>
-  
+  <br>
   not installing libatlas3-base, libavformat58<br>
   <ol>
     reason: no such packages available; you might need ffmpeg?
