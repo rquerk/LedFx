@@ -1,7 +1,7 @@
 # LedFx
 LedFx install script for Arch Linux
 
-Tested on Manjaro Xfce Minimal Installation
+Tested on Manjaro Xfce Minimal Installation<br>
 original script: https://install.ledfx.app
 
 My changes:
