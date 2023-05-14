@@ -149,10 +149,3 @@
     fi
     }
   menu
-
-#Maybeneed
-#community/gap
-#extra/ffmpeg4.4
-#community/python-d2to1
-#core/pkgconf
-#ez_setup
